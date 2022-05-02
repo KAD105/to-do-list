@@ -1,0 +1,11 @@
+.new-expense {
+  width: 50rem;
+  max-width: 95%;
+  margin: 2rem auto;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-expense__action {
+  text-align: right;
+}
