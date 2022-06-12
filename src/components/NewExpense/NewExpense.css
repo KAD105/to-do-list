@@ -9,3 +9,12 @@
 .new-expense__action {
   text-align: right;
 }
+
+.add_btn {
+  padding: 20px;
+  background-color: blueviolet;
+  color: white;
+  font-size: 28px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
